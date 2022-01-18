@@ -1,0 +1,16 @@
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Square of a chariture\bin\Debug\net5.0\Square of a chariture.exe
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Square of a chariture\bin\Debug\net5.0\Square of a chariture.deps.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Square of a chariture\bin\Debug\net5.0\Square of a chariture.runtimeconfig.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Square of a chariture\bin\Debug\net5.0\Square of a chariture.runtimeconfig.dev.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Square of a chariture\bin\Debug\net5.0\Square of a chariture.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Square of a chariture\bin\Debug\net5.0\ref\Square of a chariture.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Square of a chariture\bin\Debug\net5.0\Square of a chariture.pdb
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Square of a chariture\obj\Debug\net5.0\Square of a chariture.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Square of a chariture\obj\Debug\net5.0\Square of a chariture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Square of a chariture\obj\Debug\net5.0\Square of a chariture.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Square of a chariture\obj\Debug\net5.0\Square of a chariture.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Square of a chariture\obj\Debug\net5.0\Square of a chariture.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Square of a chariture\obj\Debug\net5.0\Square of a chariture.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Square of a chariture\obj\Debug\net5.0\ref\Square of a chariture.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Square of a chariture\obj\Debug\net5.0\Square of a chariture.pdb
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Square of a chariture\obj\Debug\net5.0\Square of a chariture.genruntimeconfig.cache

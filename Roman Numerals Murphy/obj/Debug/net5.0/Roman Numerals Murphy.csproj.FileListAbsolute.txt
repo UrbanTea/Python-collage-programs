@@ -1,0 +1,16 @@
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Roman Numerals Murphy\bin\Debug\net5.0\Roman Numerals Murphy.exe
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Roman Numerals Murphy\bin\Debug\net5.0\Roman Numerals Murphy.deps.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Roman Numerals Murphy\bin\Debug\net5.0\Roman Numerals Murphy.runtimeconfig.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Roman Numerals Murphy\bin\Debug\net5.0\Roman Numerals Murphy.runtimeconfig.dev.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Roman Numerals Murphy\bin\Debug\net5.0\Roman Numerals Murphy.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Roman Numerals Murphy\bin\Debug\net5.0\ref\Roman Numerals Murphy.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Roman Numerals Murphy\bin\Debug\net5.0\Roman Numerals Murphy.pdb
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Roman Numerals Murphy\obj\Debug\net5.0\Roman Numerals Murphy.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Roman Numerals Murphy\obj\Debug\net5.0\Roman Numerals Murphy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Roman Numerals Murphy\obj\Debug\net5.0\Roman Numerals Murphy.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Roman Numerals Murphy\obj\Debug\net5.0\Roman Numerals Murphy.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Roman Numerals Murphy\obj\Debug\net5.0\Roman Numerals Murphy.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Roman Numerals Murphy\obj\Debug\net5.0\Roman Numerals Murphy.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Roman Numerals Murphy\obj\Debug\net5.0\ref\Roman Numerals Murphy.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Roman Numerals Murphy\obj\Debug\net5.0\Roman Numerals Murphy.pdb
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Roman Numerals Murphy\obj\Debug\net5.0\Roman Numerals Murphy.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Shapes areas Murphy\bin\Debug\net5.0\Shapes areas Murphy.exe
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Shapes areas Murphy\bin\Debug\net5.0\Shapes areas Murphy.deps.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Shapes areas Murphy\bin\Debug\net5.0\Shapes areas Murphy.runtimeconfig.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Shapes areas Murphy\bin\Debug\net5.0\Shapes areas Murphy.runtimeconfig.dev.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Shapes areas Murphy\bin\Debug\net5.0\Shapes areas Murphy.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Shapes areas Murphy\bin\Debug\net5.0\ref\Shapes areas Murphy.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Shapes areas Murphy\bin\Debug\net5.0\Shapes areas Murphy.pdb
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Shapes areas Murphy\obj\Debug\net5.0\Shapes areas Murphy.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Shapes areas Murphy\obj\Debug\net5.0\Shapes areas Murphy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Shapes areas Murphy\obj\Debug\net5.0\Shapes areas Murphy.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Shapes areas Murphy\obj\Debug\net5.0\Shapes areas Murphy.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Shapes areas Murphy\obj\Debug\net5.0\Shapes areas Murphy.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Shapes areas Murphy\obj\Debug\net5.0\Shapes areas Murphy.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Shapes areas Murphy\obj\Debug\net5.0\ref\Shapes areas Murphy.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Shapes areas Murphy\obj\Debug\net5.0\Shapes areas Murphy.pdb
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Shapes areas Murphy\obj\Debug\net5.0\Shapes areas Murphy.genruntimeconfig.cache

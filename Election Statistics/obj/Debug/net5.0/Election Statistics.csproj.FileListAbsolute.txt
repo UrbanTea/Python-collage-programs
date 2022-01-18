@@ -1,0 +1,16 @@
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Election Statistics\bin\Debug\net5.0\Election Statistics.exe
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Election Statistics\bin\Debug\net5.0\Election Statistics.deps.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Election Statistics\bin\Debug\net5.0\Election Statistics.runtimeconfig.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Election Statistics\bin\Debug\net5.0\Election Statistics.runtimeconfig.dev.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Election Statistics\bin\Debug\net5.0\Election Statistics.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Election Statistics\bin\Debug\net5.0\ref\Election Statistics.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Election Statistics\bin\Debug\net5.0\Election Statistics.pdb
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Election Statistics\obj\Debug\net5.0\Election Statistics.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Election Statistics\obj\Debug\net5.0\Election Statistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Election Statistics\obj\Debug\net5.0\Election Statistics.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Election Statistics\obj\Debug\net5.0\Election Statistics.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Election Statistics\obj\Debug\net5.0\Election Statistics.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Election Statistics\obj\Debug\net5.0\Election Statistics.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Election Statistics\obj\Debug\net5.0\ref\Election Statistics.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Election Statistics\obj\Debug\net5.0\Election Statistics.pdb
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Election Statistics\obj\Debug\net5.0\Election Statistics.genruntimeconfig.cache

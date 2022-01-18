@@ -1,0 +1,16 @@
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Exam Score Program Murphy\bin\Debug\net5.0\Exam Score Program Murphy.exe
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Exam Score Program Murphy\bin\Debug\net5.0\Exam Score Program Murphy.deps.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Exam Score Program Murphy\bin\Debug\net5.0\Exam Score Program Murphy.runtimeconfig.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Exam Score Program Murphy\bin\Debug\net5.0\Exam Score Program Murphy.runtimeconfig.dev.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Exam Score Program Murphy\bin\Debug\net5.0\Exam Score Program Murphy.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Exam Score Program Murphy\bin\Debug\net5.0\ref\Exam Score Program Murphy.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Exam Score Program Murphy\bin\Debug\net5.0\Exam Score Program Murphy.pdb
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Exam Score Program Murphy\obj\Debug\net5.0\Exam Score Program Murphy.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Exam Score Program Murphy\obj\Debug\net5.0\Exam Score Program Murphy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Exam Score Program Murphy\obj\Debug\net5.0\Exam Score Program Murphy.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Exam Score Program Murphy\obj\Debug\net5.0\Exam Score Program Murphy.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Exam Score Program Murphy\obj\Debug\net5.0\Exam Score Program Murphy.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Exam Score Program Murphy\obj\Debug\net5.0\Exam Score Program Murphy.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Exam Score Program Murphy\obj\Debug\net5.0\ref\Exam Score Program Murphy.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Exam Score Program Murphy\obj\Debug\net5.0\Exam Score Program Murphy.pdb
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Exam Score Program Murphy\obj\Debug\net5.0\Exam Score Program Murphy.genruntimeconfig.cache

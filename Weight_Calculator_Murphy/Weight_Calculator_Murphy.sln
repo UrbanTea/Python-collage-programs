@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weight_Calculator_Murphy", "Weight_Calculator_Murphy.csproj", "{98C83436-98C7-4A02-9637-E45D2434DE94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C83436-98C7-4A02-9637-E45D2434DE94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C83436-98C7-4A02-9637-E45D2434DE94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C83436-98C7-4A02-9637-E45D2434DE94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C83436-98C7-4A02-9637-E45D2434DE94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {263F5F63-A364-4FD3-AA20-9A2C12DEDAC0}
+	EndGlobalSection
+EndGlobal

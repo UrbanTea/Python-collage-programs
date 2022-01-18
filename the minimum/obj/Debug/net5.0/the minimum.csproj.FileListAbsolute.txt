@@ -1,0 +1,16 @@
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\the minimum\bin\Debug\net5.0\the minimum.exe
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\the minimum\bin\Debug\net5.0\the minimum.deps.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\the minimum\bin\Debug\net5.0\the minimum.runtimeconfig.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\the minimum\bin\Debug\net5.0\the minimum.runtimeconfig.dev.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\the minimum\bin\Debug\net5.0\the minimum.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\the minimum\bin\Debug\net5.0\ref\the minimum.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\the minimum\bin\Debug\net5.0\the minimum.pdb
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\the minimum\obj\Debug\net5.0\the minimum.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\the minimum\obj\Debug\net5.0\the minimum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\the minimum\obj\Debug\net5.0\the minimum.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\the minimum\obj\Debug\net5.0\the minimum.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\the minimum\obj\Debug\net5.0\the minimum.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\the minimum\obj\Debug\net5.0\the minimum.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\the minimum\obj\Debug\net5.0\ref\the minimum.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\the minimum\obj\Debug\net5.0\the minimum.pdb
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\the minimum\obj\Debug\net5.0\the minimum.genruntimeconfig.cache

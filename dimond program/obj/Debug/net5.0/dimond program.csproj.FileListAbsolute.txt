@@ -1,0 +1,16 @@
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\dimond program\bin\Debug\net5.0\dimond program.exe
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\dimond program\bin\Debug\net5.0\dimond program.deps.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\dimond program\bin\Debug\net5.0\dimond program.runtimeconfig.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\dimond program\bin\Debug\net5.0\dimond program.runtimeconfig.dev.json
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\dimond program\bin\Debug\net5.0\dimond program.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\dimond program\bin\Debug\net5.0\ref\dimond program.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\dimond program\bin\Debug\net5.0\dimond program.pdb
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\dimond program\obj\Debug\net5.0\dimond program.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\dimond program\obj\Debug\net5.0\dimond program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\dimond program\obj\Debug\net5.0\dimond program.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\dimond program\obj\Debug\net5.0\dimond program.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\dimond program\obj\Debug\net5.0\dimond program.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\dimond program\obj\Debug\net5.0\dimond program.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\dimond program\obj\Debug\net5.0\ref\dimond program.dll
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\dimond program\obj\Debug\net5.0\dimond program.pdb
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\dimond program\obj\Debug\net5.0\dimond program.genruntimeconfig.cache

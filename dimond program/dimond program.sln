@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dimond program", "dimond program.csproj", "{14FF8487-4F22-4320-B814-58C84EF21035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14FF8487-4F22-4320-B814-58C84EF21035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FF8487-4F22-4320-B814-58C84EF21035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FF8487-4F22-4320-B814-58C84EF21035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FF8487-4F22-4320-B814-58C84EF21035}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {692CCA5C-0A10-44D7-9A66-4F9F96D55619}
+	EndGlobalSection
+EndGlobal

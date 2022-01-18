@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Shapes areas Murphy/1.0.0": {
+        "runtime": {
+          "Shapes areas Murphy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shapes areas Murphy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
