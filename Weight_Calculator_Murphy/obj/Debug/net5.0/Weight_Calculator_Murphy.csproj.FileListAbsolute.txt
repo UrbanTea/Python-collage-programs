@@ -13,3 +13,4 @@ C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Weight_Calculat
 C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Weight_Calculator_Murphy\obj\Debug\net5.0\ref\Weight_Calculator_Murphy.dll
 C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Weight_Calculator_Murphy\obj\Debug\net5.0\Weight_Calculator_Murphy.pdb
 C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Weight_Calculator_Murphy\obj\Debug\net5.0\Weight_Calculator_Murphy.genruntimeconfig.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\Python-collage-programs\Weight_Calculator_Murphy\obj\Debug\net5.0\Weight_Calculator_Murphy.csproj.AssemblyReference.cache
